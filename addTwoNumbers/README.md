@@ -1,4 +1,4 @@
-# Add-Two-Numbers
+# addTwoNumbers
 
 ## Objective
     Return the sum of two numbers.
